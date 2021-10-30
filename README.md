@@ -11,13 +11,21 @@
 
 My name is Pavel Savinov (he/his/him @ reptiloid), i'm 2️⃣5️⃣ years old.   
 Currently BASED @ [Vladivostok](https://en.wikipedia.org/wiki/Vladivostok) [UTC+10 (MSK+7)].
+Russian blog, that i don't actively maintain anymore - https://getjump.me/
 
 ##### Socials
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/getjump)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
-##### Languages i'm currently working with
+##### Open Source Projects
+
+URL | Language |Description
+---|---|---
+https://github.com/getjump/donation-alerts-skipper-telegram | Russian | Интеграция DonationAlerts с Telegram, позволяет модерации скипать донаты
+
+
+<!-- ##### Languages i'm currently working with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -121,27 +129,27 @@ Currently BASED @ [Vladivostok](https://en.wikipedia.org/wiki/Vladivostok) [UTC+
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) -->
 
-##### Workspace
+<!-- ##### Workspace
 
 ![RTX 2070 Super](https://img.shields.io/badge/NVIDIA-RTX2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![AMD Ryzen 3700X](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-##### OS I'm using
+ -->
+<!-- ##### OS I'm using
 * Arch Linux - on desktop PC, dual booting with Windows 11.
 * macOS on Macbook Pro
 * Windows 10 on another laptop
 * Android 11 on Poco X3 Pro
 * ipadOS Ipad 9
-* iOS iPad Air gen 1, iPhone 7
+* iOS iPad Air gen 1, iPhone 7 -->
 
 ##### Arch Setup
 Shell           | WM/DE   | Editor | Terminal | Multiplexer | Bar     | Mail        |  File Manager |
 :-------------: | :-----: | :----: | :------: | :---------: | :-----: | :---------: |  :----------: |
 zsh (oh-my-zsh) | Sway    | neovim | foot     | tmux        | waybar  | thunderbird |  ranger       |
 
-##### Home Automation
+<!-- ##### Home Automation
 
 ![HomeAssistant](https://img.shields.io/badge/HomeAssistant-41BDF5?style=for-the-badge&logo=HomeAssistant&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
@@ -152,7 +160,7 @@ zsh (oh-my-zsh) | Sway    | neovim | foot     | tmux        | waybar  | thunderb
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
+ -->
 
 ##### Github stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=getjump&count_private=true&show_icons=true&theme=onedark)
