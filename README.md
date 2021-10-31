@@ -145,10 +145,10 @@ https://github.com/getjump/TwitchPredictionsBG | Any / C# | HDT Plugin that can 
 * ipadOS Ipad 9
 * iOS iPad Air gen 1, iPhone 7 -->
 
-##### Arch Setup
+##### Arch Linux Setup ([Dotfiles](https://github.com/getjump/dotfiles))
 Shell           | WM/DE   | Editor | Terminal | Multiplexer | Bar     | Mail        |  File Manager |
 :-------------: | :-----: | :----: | :------: | :---------: | :-----: | :---------: |  :----------: |
-zsh (oh-my-zsh) | Sway    | neovim | foot     | tmux        | waybar  | thunderbird |  ranger       |
+[zsh (oh-my-zsh)](https://github.com/ohmyzsh/ohmyzsh) | [Sway](https://github.com/swaywm/sway)    | [neovim](https://github.com/neovim/neovim) | foot     | [tmux](https://github.com/tmux/tmux)        | [waybar](https://github.com/Alexays/Waybar)  | thunderbird |  ranger       |
 
 <!-- ##### Home Automation
 
