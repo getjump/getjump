@@ -23,6 +23,7 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 URL | Language |Description
 ---|---|---
 https://github.com/getjump/donation-alerts-skipper-telegram | Russian | Интеграция DonationAlerts с Telegram, позволяет модерации скипать донаты
+https://github.com/getjump/TwitchPredictionsBG | Any | HDT Plugin that can publish predictions, while you are playing Hearthstone Battlegrounds
 
 
 <!-- ##### Languages i'm currently working with
