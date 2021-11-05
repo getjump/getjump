@@ -150,6 +150,12 @@ Shell           | WM/DE   | Editor | Terminal | Multiplexer | Bar     | Mail    
 :-------------: | :-----: | :----: | :------: | :---------: | :-----: | :---------: |  :----------: |
 [zsh (oh-my-zsh)](https://github.com/ohmyzsh/ohmyzsh) | [Sway](https://github.com/swaywm/sway)    | [neovim](https://github.com/neovim/neovim) | foot     | [tmux](https://github.com/tmux/tmux)        | [waybar](https://github.com/Alexays/Waybar)  | thunderbird |  ranger       |
 
+
+##### Donations
+
+- Спасибо на [YooMoney](https://yoomoney.ru/to/410011423259044)
+- [DonationAlerts](https://www.donationalerts.com/r/getjump)
+
 <!-- ##### Home Automation
 
 ![HomeAssistant](https://img.shields.io/badge/HomeAssistant-41BDF5?style=for-the-badge&logo=HomeAssistant&logoColor=white)
