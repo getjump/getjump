@@ -1,0 +1,43 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      songArtist:
+        description: 'Current artist'
+        required: true
+        default: 'No Artist'
+      songName:
+        description: 'Current song playing'
+        required: true
+        default: 'No song'
+      songPictureUri:
+        description: 'Current song picture'
+        required: true
+        default: ''
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: true # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+    - name: Create local changes
+      run: |
+        sed -i -E 's/\{\{dateUTC\}\}/'"$(TZ=UTC printf '%(%B %d, %A, %I:%m %p)T\n' -1)"'/' README.md
+        sed -i -E 's/\{\{songArtist\}\}/${{ github.event.inputs.songArtist }}/'
+        sed -i -E 's/\{\{songName\}\}/${{ github.event.inputs.songName }}/'
+        sed -i -E 's/\{\{songPictureUri\}\}/${{ github.event.inputs.songPictureUri }}/'
+    - name: Commit and push files
+      run: |
+        git config --local user.email "getjump@users.noreply.github.com"
+        git config --local user.name "Pavel Savinov"
+        git commit -m "Update" -a
+        git push
