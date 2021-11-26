@@ -22,7 +22,7 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 
 Currently i'm Listening to:
 {{songArtist}} - {{songName}}
-[![Spotify]({{songPictureUrl}})
+[![Spotify]({{songPictureUri}})
 ##### Open Source Projects
 
 URL | Language |Description
