@@ -31,13 +31,13 @@ jobs:
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
     - name: Create local changes
       run: |
-        sed -i -E 's/\{\{dateUTC\}\}/'"$(TZ=UTC printf '%(%B %d, %A, %I:%m %p)T\n' -1)"'/' README.md
+        sed -i -E 's/\{\{dateUTC\}\}/'"$(TZ=UTC printf '%(%B %d, %A, %I:%m %p)T\n' -1)"'/g' README.tpl.md | tee README.md
         ESCAPED_REPLACE=$(printf '%s\n' "${{ github.event.inputs.songArtist }}" | sed -e 's/[\/&]/\\&/g')
-        sed -i -E 's/\{\{songArtist\}\}/'"$ESCAPED_REPLACE"'/' README.md
+        sed -i -E 's/\{\{songArtist\}\}/'"$ESCAPED_REPLACE"'/g' README.tpl.md | tee README.md
         ESCAPED_REPLACE=$(printf '%s\n' "${{ github.event.inputs.songName }}" | sed -e 's/[\/&]/\\&/g')
-        sed -i -E 's/\{\{songName\}\}/'"$ESCAPED_REPLACE"'/' README.md
+        sed -i -E 's/\{\{songName\}\}/'"$ESCAPED_REPLACE"'/g' README.tpl.md | tee README.md
         ESCAPED_REPLACE=$(printf '%s\n' "${{ github.event.inputs.songPictureUri }}" | sed -e 's/[\/&]/\\&/g')
-        sed -i -E 's/\{\{songPictureUri\}\}/'"$ESCAPED_REPLACE"'/' README.md
+        sed -i -E 's/\{\{songPictureUri\}\}/'"$ESCAPED_REPLACE"'/g' README.tpl.md | tee README.md
     - name: Commit and push files
       run: |
         git config --local user.email "getjump@users.noreply.github.com"
