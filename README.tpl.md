@@ -21,8 +21,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Violence - Original Mix - Grimes
-[![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/82835b1ffa60339734ab33f9faf6351c.jpg)]
+{{songName}} - {{songArtist}}
+![Spotify]({{songPictureUri}})
 ##### Open Source Projects
 
 URL | Language |Description
