@@ -32,9 +32,9 @@ jobs:
     - name: Create local changes
       run: |
         sed -i -E 's/\{\{dateUTC\}\}/'"$(TZ=UTC printf '%(%B %d, %A, %I:%m %p)T\n' -1)"'/' README.md
-        sed -i -E 's/\{\{songArtist\}\}/${{ github.event.inputs.songArtist }}/'
-        sed -i -E 's/\{\{songName\}\}/${{ github.event.inputs.songName }}/'
-        sed -i -E 's/\{\{songPictureUri\}\}/${{ github.event.inputs.songPictureUri }}/'
+        sed -i -E 's/\{\{songArtist\}\}/${{ github.event.inputs.songArtist }}/' README.md
+        sed -i -E 's/\{\{songName\}\}/${{ github.event.inputs.songName }}/' README.md
+        sed -i -E 's/\{\{songPictureUri\}\}/${{ github.event.inputs.songPictureUri }}/' README.md
     - name: Commit and push files
       run: |
         git config --local user.email "getjump@users.noreply.github.com"
