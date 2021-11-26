@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - {{dateUTC}}
+Current UTC DateTime - November 26, Friday, 01:11 AM
 #### Introductión
 
 My name is Pavel Savinov (he/his/him @ reptiloid), i'm 2️⃣5️⃣ years old.   
@@ -21,8 +21,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-{{songArtist}} - {{songName}}
-[![Spotify]({{songPictureUri}})
+Grimes - Shadout Mapes
+[![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b585e9c0cb7a4d26bfe603211f8aaadd.png)
 ##### Open Source Projects
 
 URL | Language |Description
