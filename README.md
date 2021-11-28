@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - November 28, Sunday, 02:06 PM
+Current UTC DateTime - November 28, Sunday, 02:07 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Misery Business - Paramore
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b7a4b3000d0c431fbce299986ac51c48.png)
+Panzerkampf - Sabaton
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/610176256d1b86d9aa45674c34b05e96.png)
 ##### Open Source Projects
 
 URL | Language |Description
