@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - November 28, Sunday, 02:59 PM
+Current UTC DateTime - November 28, Sunday, 03:00 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Кукла колдуна - Король и шут
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/2ae13d22d28e4d589a938cb2f0049456.jpg)
+Дурак и молния - Король и шут
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/fa69fdfab3004dea9d4d67ceb23e385f.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
