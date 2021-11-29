@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - November 29, Monday, 04:22 AM
+Current UTC DateTime - November 29, Monday, 04:23 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-The Shape Hunts Allyson - John Carpenter
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a1c08013f8b2e1f75e26233cc4ef8b67.jpg)
+Ghostbusters - Ray Parker Jr.
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/56566a56c94ed40336791c5e696c4dec.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
