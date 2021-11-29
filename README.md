@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - November 29, Monday, 04:16 AM
+Current UTC DateTime - November 29, Monday, 04:17 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-проклятый старый дом - Король и шут
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/3e47556819124894b90eb37e4b1a1156.png)
+The Avengers - Alan Silvestri
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a3b2ae4a9c074c18aaab0b0757eebbd9.png)
 ##### Open Source Projects
 
 URL | Language |Description
