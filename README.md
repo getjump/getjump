@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - November 29, Monday, 01:37 PM
+Current UTC DateTime - November 29, Monday, 01:38 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Immigrant Song: Karen o With Trent Reznor - Atticus Ross
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b7e060040821445cba9bbc902d594eb3.jpg)
+On Her Majesty's Secret Service - Remastered - John Barry
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/ed1cb0cdbc22797e0305f38913f51448.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
