@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - November 29, Monday, 04:56 AM
+Current UTC DateTime - November 29, Monday, 04:57 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Spanish Flea - Herb Alpert & The Tijuana Brass
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/1dc5f4a1b2b32da0e20d6ed295abdc24.jpg)
+The James Bond Theme (From "Dr. No") - John Barry
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/fe4e09eee07d43ff944878ed1d18de79.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
