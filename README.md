@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - November 29, Monday, 04:26 AM
+Current UTC DateTime - November 29, Monday, 04:27 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Ghostbusters - Ray Parker Jr.
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/56566a56c94ed40336791c5e696c4dec.jpg)
+Dream Is Collapsing - Hans Zimmer
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/fe27be04693b9a1c81596bb0af0c26e1.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
