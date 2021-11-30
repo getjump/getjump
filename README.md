@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - November 30, Tuesday, 11:38 PM
+Current UTC DateTime - November 30, Tuesday, 11:39 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Naboo - Hot Since 82
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/bd21f8a37c50717703bd0dafc311f378.jpg)
+Griffith - Bob Moses
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/47f8f947b02a56473e59e705e10387d3.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
