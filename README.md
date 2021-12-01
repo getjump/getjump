@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 01, Wednesday, 08:10 AM
+Current UTC DateTime - December 01, Wednesday, 08:11 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-SHADOW LADY - Portwave
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/eb870fa0050497f5d4e06a5f6e1b01b0.jpg)
+Lost in the Echo - Linkin Park
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/5dda2ee492c00966c166665454e10c2d.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
