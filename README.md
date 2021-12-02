@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 02, Thursday, 12:33 AM
+Current UTC DateTime - December 02, Thursday, 12:34 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Measure of a Man (feat. Central Cee) - FKA twigs
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a41118c131d909f39fe190dbc20dbdec.jpg)
+Come Alive - Kda Remix - Pendulum
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b4e716bdfc17798dce2678ebf0596831.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
