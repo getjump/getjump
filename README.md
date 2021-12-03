@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 03, Friday, 12:56 PM
+Current UTC DateTime - December 03, Friday, 12:57 PM
 
 #### Introductión
 
@@ -22,7 +22,7 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Silver for Monsters... - Percival
+...Steel for Humans - Percival
 ![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/69a77d20505d8d5e9ba0d95ce4556dea.jpg)
 ##### Open Source Projects
 
