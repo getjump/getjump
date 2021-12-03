@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 03, Friday, 01:40 PM
+Current UTC DateTime - December 03, Friday, 01:41 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Shapeshifter - feat. Styles Of Beyond - Celldweller
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b9b5d914032c0d70d2792680ae2a7b2d.jpg)
+Frozen - Celldweller vs. Blue Stahli - Celldweller
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/bb83473e7c7c603e7f061f401d0ce795.png)
 ##### Open Source Projects
 
 URL | Language |Description
