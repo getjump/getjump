@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 03, Friday, 01:05 PM
+Current UTC DateTime - December 03, Friday, 01:06 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Blade Runner - Hans Zimmer
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a9ba49094731ed61f86bbc8110cc7782.png)
+Dream of Arrakis - Hans Zimmer
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/374db711f3c0173081433d8309d07f64.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
