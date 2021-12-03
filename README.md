@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 03, Friday, 01:03 PM
+Current UTC DateTime - December 03, Friday, 01:04 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Kaer Morhen - Marcin Przybyłowicz
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/3a8ea9e29988b621164445f4d6b77d6b.jpg)
+Blood And Wine - Marcin Przybyłowicz
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/8dd2f1be5db79bf8a42dc7f26fa9c757.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
