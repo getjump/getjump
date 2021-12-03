@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 03, Friday, 01:16 PM
+Current UTC DateTime - December 03, Friday, 01:17 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Courtyard Apocalypse - Alexandre Desplat
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/96c0a442a66e1e3c6ddee7882063c1da.jpg)
+The Departure - Max Richter
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/3079fc7a93f20b2d2215de1174b53f64.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
