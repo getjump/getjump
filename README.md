@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 03, Friday, 01:11 PM
+Current UTC DateTime - December 03, Friday, 01:12 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Blood of My Blood - Ramin Djawadi
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/59a2ee4345a44eb360ae67225eb58dbd.jpg)
+Dona Nobis Pacem 3 - Evie - Max Richter
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/f6c58b441d49fdd6edf41cf987d45138.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
