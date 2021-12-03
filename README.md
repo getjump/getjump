@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 03, Friday, 01:46 PM
+Current UTC DateTime - December 03, Friday, 01:47 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Sorry You're Not a Winner - Enter Shikari
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/5d2155a39f5548ef610f6af18a6fabbc.jpg)
+Breathe - The Prodigy
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a701147934594475c460612e9639cd06.png)
 ##### Open Source Projects
 
 URL | Language |Description
