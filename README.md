@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 03, Friday, 01:30 PM
+Current UTC DateTime - December 03, Friday, 01:31 PM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Florida Kilos - Lana Del Rey
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/3bb99b111c5b4d39cd46d54b39ba8cb7.png)
+All Around Me - Flyleaf
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/5e1c068bb8de41eaba667469ac732fc3.png)
 ##### Open Source Projects
 
 URL | Language |Description
