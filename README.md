@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 03, Friday, 02:18 PM
+Current UTC DateTime - December 03, Friday, 02:19 PM
 
 #### Introductión
 
@@ -22,7 +22,7 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Omen - The Prodigy
+Invaders Must Die - The Prodigy
 ![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/781ec2bfcf184077bdcb9318017107fd.png)
 ##### Open Source Projects
 
