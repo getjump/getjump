@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 04, Saturday, 06:37 AM
+Current UTC DateTime - December 04, Saturday, 06:38 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-The Mandalorian - Orchestral Version - Ludwig Goransson
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/d0ae307911415afd724094c58cf2e3ac.jpg)
+The Abduction - Джон Уильямс
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b500fe7e7112633314c1580b091ccae8.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
