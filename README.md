@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 04, Saturday, 06:55 AM
+Current UTC DateTime - December 04, Saturday, 06:56 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Y-Wing - Kevin Kiner
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/92d121ff49a9c8cbac0a5ce5bc000676.jpg)
+Kashyyyk - Stephen Barton
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/78bf40ee5b4e85786571247182df335e.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
