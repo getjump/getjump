@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 04, Saturday, 06:40 AM
+Current UTC DateTime - December 04, Saturday, 06:41 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-The Abduction - Джон Уильямс
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b500fe7e7112633314c1580b091ccae8.jpg)
+Reminiscence Therapy - John Powell
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a50e342bc451822e123b5f5a77e5aa8c.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
