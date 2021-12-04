@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 04, Saturday, 06:25 AM
+Current UTC DateTime - December 04, Saturday, 06:26 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-The Night Of Long Fangs - Mikolai Stroinski
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/2bfe9d5ffbe6c55ea84be33c26568a2c.jpg)
+Turbo Killer - Carpenter Brut
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/d0c1914b6840db8f0bdeb105944e7933.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
