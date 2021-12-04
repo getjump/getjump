@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 04, Saturday, 06:51 AM
+Current UTC DateTime - December 04, Saturday, 06:52 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-The Falcon - Джон Уильямс
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b500fe7e7112633314c1580b091ccae8.jpg)
+Nice Family - Ludwig Goransson
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/bc684d887537a154c2a6c86cadba909e.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
