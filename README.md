@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 05, Sunday, 05:25 AM
+Current UTC DateTime - December 05, Sunday, 05:26 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Killing My Love - Leslie Parrish
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/339bb9d67bf5d003124f52be123bf4da.jpg)
+Oblivion - Grimes
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/94cfdb5f36a7f935b6837f5fe8840ed6.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
