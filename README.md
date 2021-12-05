@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 05, Sunday, 06:15 AM
+Current UTC DateTime - December 05, Sunday, 06:16 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Zinedine Zidane (feat. Les Murray) - Vaudeville Smash
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/6eaab5d4dac49348db54d8447d22f9de.jpg)
+Ridgecrest Taking Over - Rhodamine
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/aa2831c6f26ce5abea9062a5f24fb079.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
