@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 05, Sunday, 06:51 AM
+Current UTC DateTime - December 05, Sunday, 06:52 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Blue Jeans - Lana Del Rey
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/aed7c3259ed24e1488578eb387b228df.png)
+Я так соскучился - ПорноФильмы
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/96d4309dabac0b1daa1398e06b709a86.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
