@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 06, Monday, 03:37 AM
+Current UTC DateTime - December 06, Monday, 03:38 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Fuck You - Lily Allen
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/7474aee7be2393737b11b4ba1e6c2421.png)
+Lipsi ha - INSTASAMKA
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/700a5cb61dc181e25f04844c5e688338.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
