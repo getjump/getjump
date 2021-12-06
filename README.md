@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 06, Monday, 02:45 AM
+Current UTC DateTime - December 06, Monday, 02:46 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-KISS OF DEATH(Produced by HYDE) - Mika Nakashima
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/4e9e07874a822aa97929d813a496c5c9.jpg)
+Bring Me to Life - Evanescence
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/709c71461153419d86742071e16426c8.png)
 ##### Open Source Projects
 
 URL | Language |Description
