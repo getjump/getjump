@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 07, Tuesday, 05:26 AM
+Current UTC DateTime - December 07, Tuesday, 05:27 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-New Americana - Halsey
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/6265bae5dc63864ecde8ffd681f7a886.png)
+Figure 8 - Xilent Remix - Ellie Goulding
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/6561b4faefc24a9d91035a0b964ee77b.png)
 ##### Open Source Projects
 
 URL | Language |Description
