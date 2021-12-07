@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 07, Tuesday, 05:38 AM
+Current UTC DateTime - December 07, Tuesday, 05:39 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-ACID RAIN - Lorn
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/35fa26882f2240b6c02469a127ab3971.jpg)
+Resonance - Home
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/41e1ed74a64f41c7c14a94439b422a04.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
