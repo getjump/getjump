@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 07, Tuesday, 06:05 AM
+Current UTC DateTime - December 07, Tuesday, 06:06 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Возвращайся - Angel Vox
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a81ff443e3d21c93b122345d82e2bed0.jpg)
+Misery Business - Paramore
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b7a4b3000d0c431fbce299986ac51c48.png)
 ##### Open Source Projects
 
 URL | Language |Description
