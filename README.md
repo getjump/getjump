@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 08, Wednesday, 02:46 AM
+Current UTC DateTime - December 08, Wednesday, 02:47 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-ART GANG MONEY - Swervy
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/383ed68cd1df0de6ad830650e76149c6.jpg)
+Stray Bullet - KMFDM
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/bfe32f726a80487c98808d8698cb280c.png)
 ##### Open Source Projects
 
 URL | Language |Description
