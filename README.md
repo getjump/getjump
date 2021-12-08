@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 08, Wednesday, 02:51 AM
+Current UTC DateTime - December 08, Wednesday, 02:52 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-black sheep - Kailee Morgue
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/7f27724a62bd56846a81e959fdb41e8c.jpg)
+Swimming Pool - Marie Madeleine
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/3d459c7df712aa18bd5cbdd55b21c40d.png)
 ##### Open Source Projects
 
 URL | Language |Description
