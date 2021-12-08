@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 08, Wednesday, 02:21 AM
+Current UTC DateTime - December 08, Wednesday, 02:22 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-You Can't Kill Me I'm Alive - MeLoveMeAlot
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/2d02d088d74316de45a87ec90a47bd4e.jpg)
+Kill Kitty - KMFDM remix - Angelspit
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/307a457eca8256119775aa514d3362c4.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
