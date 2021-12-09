@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 09, Thursday, 04:49 AM
+Current UTC DateTime - December 09, Thursday, 04:50 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Maniac - Carpenter Brut
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/d7b0c7d9f7107e025b4214ea7aac0ea4.jpg)
+Can You Feel My Heart - Varien
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/5684472e0a32895b5df1d22c7debe65c.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
