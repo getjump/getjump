@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 09, Thursday, 04:53 AM
+Current UTC DateTime - December 09, Thursday, 04:54 AM
 
 #### Introductión
 
@@ -22,7 +22,7 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-ムーンライト伝説(Short ver.) - 田中梨瑚(セーラームーン)
+You're my universe(Short ver.) - 田中梨瑚(セーラームーン)
 ![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/38e240bc8d34a905a1aaa6279181733a.jpg)
 ##### Open Source Projects
 
