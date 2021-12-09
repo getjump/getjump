@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 09, Thursday, 03:53 AM
+Current UTC DateTime - December 09, Thursday, 03:54 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Kamado Tanjirou no Uta (From "Demon Slayer: Kimetsu no Yaiba") [Full Version] - AKano
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/09215f102e1b669e1e0b47a2c71feb32.jpg)
+again - YUI
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/0dada8d3c1ef4a0189ab487aa917aedc.png)
 ##### Open Source Projects
 
 URL | Language |Description
