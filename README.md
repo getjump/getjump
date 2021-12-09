@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 09, Thursday, 03:38 AM
+Current UTC DateTime - December 09, Thursday, 03:39 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-RESISTER - ASCA
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/dbba19ea76f4757492e970cd65e4a6f2.jpg)
+Sniper Rouge - Mitch Murder
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/0957d083e3fd8ad91d6fc99523dfd51b.png)
 ##### Open Source Projects
 
 URL | Language |Description
