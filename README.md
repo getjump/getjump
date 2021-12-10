@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 10, Friday, 12:51 PM
+Current UTC DateTime - December 10, Friday, 12:52 PM
 
 #### Introductión
 
@@ -22,7 +22,7 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-The Hills - The Weeknd
+Can't Feel My Face - The Weeknd
 ![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/8a54e33c0046d4752bcf56b37adaa97c.png)
 ##### Open Source Projects
 
