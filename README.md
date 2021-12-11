@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 11, Saturday, 03:10 AM
+Current UTC DateTime - December 11, Saturday, 03:11 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Come Back Around - Eli & Fur
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/0853de6f9faea373b942a2f04b844b1e.jpg)
+Toss A Coin To Your Witcher - Sonya Belousova
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/f4ee7e435449fa696ce6d2c8e4e34951.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
