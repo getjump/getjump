@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 11, Saturday, 07:44 AM
+Current UTC DateTime - December 11, Saturday, 07:45 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-An End, Once and For All - Clint Mansell
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/210ebd988d06812952826fe89cd37b7f.jpg)
+Mass Effect Theme - Jack Wall
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/332a1ed8245befd11195acc3e7a779f5.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
