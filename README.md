@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 11, Saturday, 02:52 AM
+Current UTC DateTime - December 11, Saturday, 02:53 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Night Creature - Maya Jane Coles
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/414134ab41d441f5c5c35f6cbe087369.png)
+Я тебя люблю - Где Фантом?
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/56343f75c5780aee590ef5a80bf3da6b.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
