@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 11, Saturday, 01:59 AM
+Current UTC DateTime - December 11, Saturday, 02:00 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Икры и Сала - ДЕТИ RAVE
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/d7bfc6e4b81c5b67adecc672051457b9.jpg)
+GODDD MODE - SPYDER550
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/e318b693cc13789594a62b2b84d810fd.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
