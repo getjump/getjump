@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 13, Monday, 04:54 AM
+Current UTC DateTime - December 13, Monday, 04:55 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-I Don't Give a Fuck - Ghostface Playa
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/d2f62751c83902e2e5e9155e5f92045f.jpg)
+ALONE - EVILMANE
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/7098d9dbd337d8f9b9d00f5ecb85f638.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
