@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 13, Monday, 07:34 AM
+Current UTC DateTime - December 13, Monday, 07:35 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Hydrogen - M|O|O|N
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/d64b9a6fd3469d2f77ebdc87f533b687.jpg)
+Prey - Hensonn
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/9cfb074521fa877eb99277e68e79a827.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
