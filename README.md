@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 15, Wednesday, 05:01 AM
+Current UTC DateTime - December 15, Wednesday, 05:02 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-The Circle of Life - Rhodamine
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/2b5e204427286c942814307c595c442d.png)
+5 A.M. - MXRTAL
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b58c634d1d4a06a4d9f7f8bd9bcfae8f.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
