@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 15, Wednesday, 05:26 AM
+Current UTC DateTime - December 15, Wednesday, 05:27 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-PLAYAHOUSE - Mista Playa
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/2a5af97b3a01ff72d46fc183b5a59bce.jpg)
+tekilla - EYEZ HATE U
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a205444b3aa6f35bfe1ebd66de1b41dd.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
