@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 15, Wednesday, 07:48 AM
+Current UTC DateTime - December 15, Wednesday, 07:49 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Adidas - Russian Village Boys
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a49e066c7a0dc2ae8978f5c04f6bdc34.jpg)
+3-6 DESTRUCTION - Pharmacist
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/7237ed3ef2f162aed77ba624a697989a.png)
 ##### Open Source Projects
 
 URL | Language |Description
