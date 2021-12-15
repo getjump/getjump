@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 15, Wednesday, 05:53 AM
+Current UTC DateTime - December 15, Wednesday, 05:54 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Breaking the Law - Ghostface Playa
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/095f6ae82e416e36d851a3f42310fba1.jpg)
+To anything :'( - Not listening
+![Spotify](undefined)
 ##### Open Source Projects
 
 URL | Language |Description
