@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 16, Thursday, 04:41 AM
+Current UTC DateTime - December 16, Thursday, 04:42 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Backward - Cowbell Cult
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png)
+Refund My Soul For Supra Mk 5 - BLXCKBUSTA
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/17dc56a2da4332565db8dfcbfddcb277.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
