@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 17, Friday, 07:49 AM
+Current UTC DateTime - December 17, Friday, 07:50 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Lovesick - Moe Shop
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/59dec672602d5d55b0bc31298cd8116e.jpg)
+Horsey - Macross 82-99
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/99b38b91dc4d324026811be17ef5e303.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
