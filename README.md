@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 17, Friday, 02:44 AM
+Current UTC DateTime - December 17, Friday, 02:45 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-KISS OF DEATH(Produced by HYDE) - Mika Nakashima
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/4e9e07874a822aa97929d813a496c5c9.jpg)
+Kamado Tanjirou no Uta (From "Demon Slayer: Kimetsu no Yaiba") [Full Version] - AKano
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/09215f102e1b669e1e0b47a2c71feb32.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
