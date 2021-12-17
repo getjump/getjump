@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 17, Friday, 08:10 AM
+Current UTC DateTime - December 17, Friday, 08:11 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Love Taste - Moe Shop
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/17c36fbdf68317601ed8e930fe9d7f01.jpg)
+The Edge of Dawn (from "Fire Emblem: Three Houses") - Amalee
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/81db1872803005df16ffebb49ce9c113.png)
 ##### Open Source Projects
 
 URL | Language |Description
