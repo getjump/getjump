@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 17, Friday, 02:19 AM
+Current UTC DateTime - December 17, Friday, 02:20 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Tires On Fire - Coda
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/771b4440dad11548e71af9a67bf3c6aa.jpg)
+いつの日か -Believe me- - 阿保 剛
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/d4f9384c4ce54924fd1352c33cff2773.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
