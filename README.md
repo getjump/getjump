@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 19, Sunday, 04:27 AM
+Current UTC DateTime - December 19, Sunday, 04:28 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Highschool Of The Dead - Kisida Kyodan & The Akebosi Rockets
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/ed3c301228e0a1f6c21cb279b227b3c4.jpg)
+Brat - MoxiFloxi
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/0c568e97eed0474815274bcadcecb489.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
