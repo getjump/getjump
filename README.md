@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 19, Sunday, 04:37 AM
+Current UTC DateTime - December 19, Sunday, 04:38 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Turbo Killer - Carpenter Brut
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/d0c1914b6840db8f0bdeb105944e7933.jpg)
+Eye of the Storm - Ghost Data
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/876ffb5cad284a8ab402a5d61231db5c.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
