@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 19, Sunday, 03:39 AM
+Current UTC DateTime - December 19, Sunday, 03:40 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Pretty Rave Girl - S3RL
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/f80e0d8bcd962841cd83ded9d757f8a7.jpg)
+WONDER POP - Moe Shop
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/6576fc1d33a7966330efe85324b11ab9.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
