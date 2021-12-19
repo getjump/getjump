@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 19, Sunday, 04:05 AM
+Current UTC DateTime - December 19, Sunday, 04:06 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Hedgehog's Dilemma - Shiro Sagisu
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/2e28f53104efa707fbaa3ec5edacb10e.jpg)
+Titanium - Mittsies
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a009c91b634afe2b6a0036d0918fae2a.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
