@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 19, Sunday, 03:58 AM
+Current UTC DateTime - December 19, Sunday, 03:59 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Every Day is Night - Garoad
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/15f8bb771b9b8ef28efdf534cd8774c9.jpg)
+Become God - Ghost Data
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/741adb06d09a32059de548e3ada7f92a.png)
 ##### Open Source Projects
 
 URL | Language |Description
