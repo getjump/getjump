@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - December 25, Saturday, 12:05 AM
+Current UTC DateTime - December 25, Saturday, 12:06 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-We Appreciate Power - Grimes
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/814a76d8eef519ed58ad4e9dd42ea767.jpg)
+My Name Is Dark - Art Mix - Grimes
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/6700ac4c7eb13c8c99b9e70dd026c3cb.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
