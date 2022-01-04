@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 04, Tuesday, 05:57 AM
+Current UTC DateTime - January 04, Tuesday, 05:58 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-SextMeFromTheAfterlife - babyloot
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/c007930a0dbe0e92efb8ebfc7507204c.jpg)
+Miserlou - Dick Dale and His Del-Tones
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/32b74e348462b77476465a1fb99cbdff.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
