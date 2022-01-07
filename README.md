@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 07, Friday, 05:53 AM
+Current UTC DateTime - January 07, Friday, 05:54 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Dissolved Girl - Massive Attack
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/d1b2eab14337cbe47cc473b422625788.jpg)
+Navras - Juno Reactor
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/93495dfe60785665189243f3155db664.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
