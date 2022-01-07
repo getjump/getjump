@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 07, Friday, 05:47 AM
+Current UTC DateTime - January 07, Friday, 05:48 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-To anything :'( - Not listening
-![Spotify](undefined)
+Tears In the Club (feat. The Weeknd) - FKA twigs
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/42eb53ed4874b47de86721c15d8da258.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
