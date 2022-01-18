@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 18, Tuesday, 01:24 AM
+Current UTC DateTime - January 18, Tuesday, 01:25 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Adidas - Russian Village Boys
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/a49e066c7a0dc2ae8978f5c04f6bdc34.jpg)
+HDMI - Bones
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/56ba73664ed24b78cb7c9ad01965fefd.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
