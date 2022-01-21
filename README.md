@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 21, Friday, 07:59 AM
+Current UTC DateTime - January 21, Friday, 08:00 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-The Knight Who Was Taught to Save Dragons - Sonya Belousova
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/f4ee7e435449fa696ce6d2c8e4e34951.jpg)
+Nemesis - Mikolai Stroinski
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/0b57b6183e7fc1c126eff5dbaa62cdd4.png)
 ##### Open Source Projects
 
 URL | Language |Description
