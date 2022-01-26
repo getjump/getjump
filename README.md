@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 26, Wednesday, 08:33 AM
+Current UTC DateTime - January 26, Wednesday, 08:34 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Lilith - Nebulesse
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png)
+Tank! - Seatbelts
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/161f47abef085d50f8b405dc39342838.png)
 ##### Open Source Projects
 
 URL | Language |Description
