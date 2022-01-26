@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 26, Wednesday, 08:55 AM
+Current UTC DateTime - January 26, Wednesday, 08:56 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Crimewave - Crystal Castles
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/8da6d80eb32a8b6f35fdf09d89a004f0.jpg)
+To anything :'( - Not listening
+![Spotify](undefined)
 ##### Open Source Projects
 
 URL | Language |Description
