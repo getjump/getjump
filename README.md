@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 29, Saturday, 01:12 AM
+Current UTC DateTime - January 29, Saturday, 01:13 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-CRYBABY - Abra
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/4b624b61dd10dec14c11bd2a713dbc24.jpg)
+Potential Breakup Song - Aly & AJ
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b692bceb178e48b3910cb3c0954f3ebc.png)
 ##### Open Source Projects
 
 URL | Language |Description
