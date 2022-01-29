@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 29, Saturday, 02:04 AM
+Current UTC DateTime - January 29, Saturday, 02:05 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Oxytocin - Billie Eilish
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/0f0bd3c40aaf60b9900d74fb70b6ad09.jpg)
+STAY (with Justin Bieber) - The Kid LAROI
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/54a8ba1b68322fab1b9b8059b0f46afa.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
