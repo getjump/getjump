@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 29, Saturday, 08:41 AM
+Current UTC DateTime - January 29, Saturday, 08:42 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Bamboleo - Julio Iglesias
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/664e483100b151602a2d1e66180a0c24.jpg)
+Bamboléo - Gipsy Kings
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/33f0e72e6e2ec4d6ef4c930d2928f3d8.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
