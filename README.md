@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 29, Saturday, 01:19 AM
+Current UTC DateTime - January 29, Saturday, 01:20 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-A Tale by Quincy - The Weeknd
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/160e9b698403aec766da4e15059e0276.jpg)
+gorit - Dorofeeva
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/f7707f8f3502ea3c13d60d48009fea06.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
