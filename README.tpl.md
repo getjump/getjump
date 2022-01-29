@@ -160,6 +160,7 @@ Shell           | WM/DE   | Editor | Terminal | Multiplexer | Bar     | Mail    
 
 - Спасибо на [YooMoney](https://yoomoney.ru/to/410011423259044)
 - [DonationAlerts](https://www.donationalerts.com/r/getjump)
+- Bitcoin - `1getjumppSQvYy3J4KRuVqRsUVifP5GkR`
 
 <!-- ##### Home Automation
 
