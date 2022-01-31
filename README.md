@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 31, Monday, 12:59 AM
+Current UTC DateTime - January 31, Monday, 01:00 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-burn this moment into the retina of my eye - goreshit
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/89310c6368314cd5cc4f7a835c19ddb5.png)
+She Been Fxckxng - PRXSXNT FXTURE
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/c0704e9fab78ab846fd8bb215e59e5b5.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
