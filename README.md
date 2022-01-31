@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 31, Monday, 12:10 AM
+Current UTC DateTime - January 31, Monday, 12:11 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Player of Games - Grimes
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/b2bd38c2119994f08e8a73d3b24ed7f8.png)
+You'll miss me when I'm not around - Things You Say Remix - Grimes
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/4919e8c755108cdc71d56e2a4fb392d7.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
