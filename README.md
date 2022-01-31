@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 31, Monday, 12:02 AM
+Current UTC DateTime - January 31, Monday, 12:03 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-So Heavy I Fell Through the Earth - Art Mix - Grimes
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/adc5ed6ae5f80ca208e1993e3dbf2fb7.jpg)
+Urban Twilight - Grimes
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/3a2053a2ea85426cb9bc000ec67e9f86.png)
 ##### Open Source Projects
 
 URL | Language |Description
