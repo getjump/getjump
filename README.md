@@ -8,7 +8,7 @@
 ![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
 
 
-Current UTC DateTime - January 31, Monday, 01:24 AM
+Current UTC DateTime - January 31, Monday, 01:25 AM
 
 #### Introductión
 
@@ -22,8 +22,8 @@ Russian blog, that i don't actively maintain anymore - https://getjump.me/
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
 Currently i'm Listening to:
-Ethereal Japan - ndls404
-![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/0a60e0bfee0385d15c13c4347b56bcb2.png)
+Murder In My Mind - Kordhell
+![Spotify](https://lastfm.freetls.fastly.net/i/u/64s/c47c42788371daa76d319cf894a5802c.jpg)
 ##### Open Source Projects
 
 URL | Language |Description
