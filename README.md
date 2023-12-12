@@ -2,18 +2,14 @@ Current UTC DateTime - January 31, Monday, 07:56 AM
 
 #### Introductión
 
-My name is Pavel Savinov (he/his/him @ reptiloid), i'm 2️⃣5️⃣ years old.   
-Currently BASED @ [Vladivostok](https://en.wikipedia.org/wiki/Vladivostok) [UTC+10 (MSK+7)].
-Russian blog, that i don't actively maintain anymore - https://getjump.me/
+My name is Pavel Savinov (he/his/him).
+Currently BASED @ [Zagreb](https://en.wikipedia.org/wiki/Zagreb) [UTC+1].
 
 ##### Socials
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/getjump)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
 
-Currently i'm Listening to:
-To anything :'( - Not listening
-![Spotify](undefined)
 ##### Open Source Projects
 
 URL | Language |Description
@@ -21,13 +17,13 @@ URL | Language |Description
 https://github.com/getjump/donation-alerts-skipper-telegram | Russian / Python | Интеграция DonationAlerts с Telegram, позволяет модерации скипать донаты
 https://github.com/getjump/TwitchPredictionsBG | Any / C# | HDT Plugin that can publish predictions, while you are playing Hearthstone Battlegrounds
 
-
-<!-- ##### Languages i'm currently working with
+<!-- 
+##### Languages i'm currently working with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+<!-- 
 ##### Languages i'm currently learning now
 
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
@@ -141,11 +137,13 @@ https://github.com/getjump/TwitchPredictionsBG | Any / C# | HDT Plugin that can 
 * ipadOS Ipad 9
 * iOS iPad Air gen 1, iPhone 7 -->
 
+<!-- 
 ##### Arch Linux Setup ([Dotfiles](https://github.com/getjump/dotfiles))
 Shell           | WM/DE   | Editor | Terminal | Multiplexer | Bar     | Mail        |  File Manager |
 :-------------: | :-----: | :----: | :------: | :---------: | :-----: | :---------: |  :----------: |
 [zsh (oh-my-zsh)](https://github.com/ohmyzsh/ohmyzsh) | [Sway](https://github.com/swaywm/sway)    | [neovim](https://github.com/neovim/neovim) | foot     | [tmux](https://github.com/tmux/tmux)        | [waybar](https://github.com/Alexays/Waybar)  | thunderbird |  ranger       |
-
+-->
+<!--
 
 ##### Donations
 
