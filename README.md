@@ -1,13 +1,3 @@
-# Hello Komrade! Welcome to very personal PADGE of *getjump* ![\forall x, y \in N_0](https://render.githubusercontent.com/render/math?math=\color{white}\Huge%20\forall%20x,%20y%20\in%20N_0) 
-![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
-![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
-![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
-![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
-![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
-![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
-![Komrade](https://cdn.betterttv.net/emote/5f1736f91ab9be446c4d31a7/3x)
-
-
 Current UTC DateTime - January 31, Monday, 07:56 AM
 
 #### Introductión
