@@ -3,10 +3,12 @@
 My name is Pavel Savinov (he/his/him).
 Currently BASED @ [Zagreb](https://en.wikipedia.org/wiki/Zagreb) [UTC+1].
 
+<!--
 ##### Socials
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/getjump)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tbtv7tr9rag49hrbfv6srfb6n)
+-->
 
 ##### Open Source Projects
 
