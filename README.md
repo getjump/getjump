@@ -1,5 +1,3 @@
-Current UTC DateTime - January 31, Monday, 07:56 AM
-
 #### Introductión
 
 My name is Pavel Savinov (he/his/him).
