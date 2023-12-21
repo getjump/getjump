@@ -1,6 +1,6 @@
 #### Introductión
 
-My name is Pavel Savinov (he/his/him).
+My name is Pavel Savinov.
 Currently BASED @ [Zagreb](https://en.wikipedia.org/wiki/Zagreb) [UTC+1].
 
 <!--
